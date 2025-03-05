@@ -24,3 +24,5 @@ TestResults.xml
 .idea/
 
 __pycache__
+
+.DS_Store
